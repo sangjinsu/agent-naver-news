@@ -381,12 +381,6 @@ asyncio.run(test())
 
 이 프로젝트는 [MIT 라이선스](LICENSE) 하에 배포됩니다.
 
-## 📞 지원
-
-- **이슈 리포팅**: [GitHub Issues](https://github.com/your-username/agent-naver-news/issues)
-- **기능 요청**: [GitHub Discussions](https://github.com/your-username/agent-naver-news/discussions)
-- **보안 이슈**: security@example.com
-
 ## 🙏 감사의 말
 
 - [LangGraph](https://github.com/langchain-ai/langgraph) - AI 워크플로우 프레임워크
